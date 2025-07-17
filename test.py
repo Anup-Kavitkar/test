@@ -1,4 +1,5 @@
 print("Wassup Buddy!! v2")
+import datetime
 # Get the current date and time
 current_datetime = datetime.datetime.now()
 
